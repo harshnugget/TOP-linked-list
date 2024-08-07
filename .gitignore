@@ -3,3 +3,4 @@ eslint.config.mjs
 index.html
 package-lock.json
 package.json
+index.js
